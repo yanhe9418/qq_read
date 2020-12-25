@@ -1,5 +1,9 @@
 # *------------ 安卓用户企鹅阅读 Cookies修改指南 ------------*
 
+## $\color{#FF0000}{重要！！！企鹅阅读Cookies每个月需要更换一次}$
+## $\color{#FF0000}{重要！！！企鹅阅读Cookies每个月需要更换一次}$
+## $\color{#FF0000}{重要！！！企鹅阅读Cookies每个月需要更换一次}$
+
 ### 安卓用户抓包Secrets格式如下所示  ：
 #### 样例 QQREAD_BODY:  
 ##### 小黄鸟关键词："click1":"bookDetail_bottomBar_read_C"  
